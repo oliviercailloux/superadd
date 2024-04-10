@@ -4,7 +4,7 @@ public class AddImpl implements MyAdditioner {
 
   @Override
   public int add(int a, int b) {
-    
+    return a + b;
   }
   
 }
